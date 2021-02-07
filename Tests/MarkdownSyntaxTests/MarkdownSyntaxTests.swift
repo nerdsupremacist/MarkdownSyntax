@@ -4,6 +4,10 @@ import XCTest
 final class MarkdownSyntaxTests: XCTestCase {
     func testExample() throws {
         let code = """
+        <div class="center">
+            Hello world!
+        </div>
+
         # Hello World
         ## This is another heading
 

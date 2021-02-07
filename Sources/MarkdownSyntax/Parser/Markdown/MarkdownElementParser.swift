@@ -5,6 +5,7 @@ import Syntax
 struct MarkdownElementParser: Parser {
     var body: AnyParser<Markdown.Element> {
         Either {
+            HTMLNodeParser().map(Markdown.Element.html)
             HeadingParser().map(Markdown.Element.heading)
             ImageParser()
             BlockquoteParser()

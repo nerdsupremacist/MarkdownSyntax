@@ -15,6 +15,8 @@ extension Markdown {
             public let text: Substring
         }
 
+        case html(HTMLNode)
+        
         case heading(Heading)
         case horizontalRule
 
