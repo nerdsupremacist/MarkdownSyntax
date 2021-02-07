@@ -99,4 +99,4 @@ Here's an overview of the features of Markdown that have been implemented. Note 
 Contributions are welcome and encouraged!
 
 ## License
-Syntax is available under the MIT license. See the LICENSE file for more info.
+MarkdownSyntax is available under the MIT license. See the LICENSE file for more info.
