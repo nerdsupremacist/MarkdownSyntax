@@ -1,6 +1,6 @@
 # MarkdownSyntax
 
-Yet another Markdown Parser written in Swift, with a particularly simple public API.
+Yet another (and 100% unnecessary) Markdown Parser written in Swift, with a particularly simple public API.
 This is a proof of concept Markdown Parser showcasing how to use my own library [Syntax](https://github.com/nerdsupremacist/Syntax).
 
 ## Installation
