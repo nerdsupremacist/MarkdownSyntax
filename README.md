@@ -71,3 +71,32 @@ for element in markdown.elements {
   }
 }
 ```
+## Support
+
+MarkdownSyntax does **not** yet fully comply with the [CommonMark Spec](https://spec.commonmark.org/0.29/#indented-code-blocks).
+Here's an overview of the features of Markdown that have been implemented. Note there might be quite a lot of special cases that are not handled yet. 
+
+- [x] Headlines
+    - [x] Levels 1-4
+    - [x] Special handling for Levels 1-2 with `===` and `---` lines below
+- [x] Text
+    - [x] Bold
+    - [x] Italics
+    - [x] Links
+    - [x] Inline Code
+        - [ ] Multibackticks to escape backticks in code
+- [x] Images
+- [x] References
+- [ ] Tables
+- [x] Inline HTML
+- [x] Blockquotes
+- [x] Code Blocks
+    - [ ] Multibackticks to escape backticks in code
+- [x] Ordered Lists
+- [x] Unordered Lists
+
+## Contributions
+Contributions are welcome and encouraged!
+
+## License
+Syntax is available under the MIT license. See the LICENSE file for more info.
