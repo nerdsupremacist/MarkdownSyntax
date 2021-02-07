@@ -27,7 +27,7 @@ let markdown = """
 
 A view that displays one or more lines of read-only text.
 
-A text view draws a string in your app's user interface using a
+A **text** view draws a string in your app's user interface using a
 `Font/body` font that's appropriate for the current platform. You can
 choose a different standard font, like `Font/title` or `Font/caption`,
 using the `View/font(_:)` view modifier.
