@@ -32,6 +32,6 @@ extension Markdown {
 
         case reference(Substring, Substring)
 
-        // TODO: Tables + Inline HTML
+        // TODO: Tables
     }
 }
