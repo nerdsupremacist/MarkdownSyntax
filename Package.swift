@@ -11,7 +11,7 @@ let package = Package(
                  targets: ["MarkdownSyntax"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/nerdsupremacist/Syntax.git", .branch("develop")),
+        .package(url: "https://github.com/nerdsupremacist/Syntax.git", from: "1.0.0"),
     ],
     targets: [
         .target(name: "MarkdownSyntax",

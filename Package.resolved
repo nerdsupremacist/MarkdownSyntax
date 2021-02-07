@@ -5,18 +5,18 @@
         "package": "Syntax",
         "repositoryURL": "https://github.com/nerdsupremacist/Syntax.git",
         "state": {
-          "branch": "develop",
-          "revision": "64156f976337dbca3949f4e80483305aa216a2de",
-          "version": null
+          "branch": null,
+          "revision": "004eea4d5f7215ece2d6bd971f83d9f6ac97e6cf",
+          "version": "1.0.0"
         }
       },
       {
         "package": "SyntaxTree",
         "repositoryURL": "https://github.com/nerdsupremacist/SyntaxTree.git",
         "state": {
-          "branch": "main",
+          "branch": null,
           "revision": "e05df57b9482e8122b99c59d6285c3e14ccb5b2b",
-          "version": null
+          "version": "0.1.0"
         }
       }
     ]
